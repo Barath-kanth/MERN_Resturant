@@ -1,0 +1,11 @@
+{
+  "name": "res_app",
+  "version": "1.0.0",
+  "description": "Creating Restaurant APP using MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barath",
+  "license": "MIT"
+}
